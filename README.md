@@ -1,9 +1,9 @@
 ## Code Quiz
 
 ## Description
-```
+
 An app where you can test your knowledge in coding industry by answering some questions within a time limit.   
-```
+
 # Acceptance Criteria
 
 ```
